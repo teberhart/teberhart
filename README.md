@@ -1,0 +1,26 @@
+### Hi there 👋
+
+## Who am I ?
+I'm Thibaut Eberhart. I'm a french web developer, with over 8 years of experience in backend development. I'm always looking for new ways to challenge myself and grow as a dev.
+
+## What am I currently working on ? 😎
+Mostly personal projects, like my own portfolio website, which will help me learn new languages.\
+I pretty much finished the backend, but I'm now learning ReactJS to help me with the frontend of the website, to make sure people enjoy what they see.
+
+## What am I currently learning ? 🤔
+I'm currently learning ReactJS, through a tutorial series on Youtube. I have a repo with my own version of the code, in case anyone wants to see ! It's the _react-tutorial_ one.
+
+<!--
+**teberhart/teberhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
