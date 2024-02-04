@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Who am I ?
+## Who am I ? 🧙🏻‍♂️
 I'm Thibaut Eberhart. I'm a french web developer, with over 8 years of experience in backend development. I'm always looking for new ways to challenge myself and grow as a dev.
 
 ## What am I currently working on ? 😎
